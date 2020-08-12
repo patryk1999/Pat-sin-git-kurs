@@ -1,0 +1,5 @@
+ls ->List section
+>_  ->Utdypt eller noe
+cd  -> Change director, bytt mappe
+mkdir  -> lager ny mappe
+cd .. -> Gå et nivå opp
